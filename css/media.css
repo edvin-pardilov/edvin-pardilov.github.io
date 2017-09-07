@@ -8,6 +8,9 @@
 	.logo img{
 		width: 60%;
 	}
+	.logo-footer {
+		margin-left: 20%;
+	}
 	html{
 		font-size: 7px;
 	}
